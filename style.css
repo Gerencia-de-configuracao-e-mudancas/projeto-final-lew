@@ -39,3 +39,29 @@ nav a {
     width: 50px;
     height: auto;
 }
+
+.game-card, table {
+    background-color: #1e1e1e;
+    padding: 15px;
+    margin: 10px auto;
+    border-radius: 20px;
+    border: 5px solid rgb(190, 185, 185);
+    border-style: inset;
+    width: 50%;
+    text-align: center;
+}
+
+.player {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    white-space: nowrap;
+}
+
+.team-logo, .flag{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    flex-shrink: 0;
+}

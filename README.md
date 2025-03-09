@@ -1,2 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-J_w3BzQ)
- 
+Contribuidores: 
+Luis Felipe Delfino
+Ewerton Veloso
+Wesley Delano
+
+Objetivo:
+Fazer um site simples e de fácil navegação para entusiastas da UEFA Champions League, onde os mesmos podem achar informações sobre os próximos jogos da competição, campeões e artilehiros.
+
+Tecnologias usadas: HTML, CSS, VsCode, GIT e GITHub.
+

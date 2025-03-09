@@ -58,7 +58,7 @@ nav a {
     white-space: nowrap;
 }
 
-.team-logo, .flag{
+.team-logo, .flag, .player-pic{
     width: 40px;
     height: 40px;
     border-radius: 50%;
